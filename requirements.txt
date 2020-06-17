@@ -6,7 +6,7 @@ opencv_python
 Pillow
 sklearn
 scikit-image
-neural-structured-learning
+neural-structured-learning==1.1.0
 Keras==2.3.1
 protobuf==3.11.3
 tensorflow==2.1.0
